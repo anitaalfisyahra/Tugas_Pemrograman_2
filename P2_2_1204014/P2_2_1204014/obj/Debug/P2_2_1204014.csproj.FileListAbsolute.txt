@@ -1,0 +1,6 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P2_2_1204014\P2_2_1204014\bin\Debug\P2_2_1204014.exe.config
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P2_2_1204014\P2_2_1204014\obj\Debug\P2_2_1204014.csprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P2_2_1204014\P2_2_1204014\bin\Debug\P2_2_1204014.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P2_2_1204014\P2_2_1204014\bin\Debug\P2_2_1204014.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P2_2_1204014\P2_2_1204014\obj\Debug\P2_2_1204014.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P2_2_1204014\P2_2_1204014\obj\Debug\P2_2_1204014.pdb
